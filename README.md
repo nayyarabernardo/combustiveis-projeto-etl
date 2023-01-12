@@ -8,6 +8,7 @@
 Esse é o Projeto Final de Conclusão do Bootcamp de Engenharia de Dados promovido pela SoulCode Academy. O tema dado à equipe foi o de Combustíveis e os Datasets obtidos foram extraídos desse link.
 
 ## Workflow
+![](workflow.jpg)
 
 ## Objetivo
 
