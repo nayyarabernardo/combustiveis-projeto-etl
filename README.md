@@ -23,6 +23,10 @@ Esse é o Projeto Final de Conclusão do Bootcamp de Engenharia de Dados promovi
 - Apache Beam
 - MongoDB
 
+## Dashboard
+
+Para visualização completa do [Dashboard](https://datastudio.google.com/reporting/a48904e7-3eb9-42db-8ad9-c107c1cd9fc0)
+
 ## Objetivo
 
 O objetivo deste projeto é obter insights sobre o mercado de combustíveis no Brasil, analisando os valores das operações comerciais de importação e exportação, os valores de importação do etanol no período da safra, a receita gerada por tipos de produtos de importação e exportação, a produção por tempo, a produção de combustíveis no Brasil, o volume de produção por estado e o volume de produção por refinaria, além da produção, uso interno e venda externa. 
