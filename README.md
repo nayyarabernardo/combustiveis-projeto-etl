@@ -32,3 +32,11 @@ Foram realizadas análise de dados públicos do Brasil sobre petróleo e derivad
 - no volume de produção; 
 - nas importações e exportações. 
 
+## Equipe
+
+- [Augusto Tonelli](https://github.com/augustoTonelli)
+- [Caio Alves](https://github.com/caioitalo)
+- Érica Marçal
+- [Luan Sagara](https://github.com/LuanSagara)
+
+
