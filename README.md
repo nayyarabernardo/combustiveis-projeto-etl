@@ -25,8 +25,9 @@ Esse é o Projeto Final de Conclusão do Bootcamp de Engenharia de Dados promovi
 
 ## Dashboard
 
+![](dashboard.jpg)
+
 Para visualização completa do [Dashboard](https://datastudio.google.com/reporting/a48904e7-3eb9-42db-8ad9-c107c1cd9fc0)
-![](dashboard.png)
 
 ## Objetivo
 
