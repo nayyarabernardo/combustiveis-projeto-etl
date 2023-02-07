@@ -11,7 +11,7 @@ Esse é o Projeto Final de Conclusão do Bootcamp de Engenharia de Dados promovi
 ![](workflow.jpg)
 
 ### Tecnologias utilizadas para realização do projeto:
-- Google Cloud Platform (CGP)
+- Google Cloud Platform (GCP)
 - Cloud Storage
 - Looker Studio
 - BigQuery
